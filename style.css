@@ -1,0 +1,50 @@
+h1 {
+    font-size: 60px;
+    -webkit-text-stroke-width: 2px; 
+    -webkit-text-stroke-color: black; 
+    color: white;
+}
+
+p {
+    font-size: 20px;
+}
+.card{
+    margin: 100px;
+    font-family: 'Lato';
+    text-align: center;
+    background-color: rgb(213, 240, 228);
+    padding-top: 30px;
+    color:black;
+    border: solid 8px;
+    border-color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+
+button {
+    padding: 15px;
+    border-radius: 20px;
+    width: 250px;
+}
+
+button:hover{
+    background-color: rgb(184, 184, 184);
+}
+
+.links {
+    margin: 40px;
+}
+
+.icon {
+    width: 60px;
+    margin: 20px;
+}
+
+.icon:hover {
+    opacity: 70%;
+}

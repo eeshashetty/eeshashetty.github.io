@@ -1,0 +1,12 @@
+.eesha{
+    padding: 12px;
+    text-decoration: none;
+    font-size: 37px;
+    border: solid 2px;
+    color: black;
+}
+
+.eesha:hover {
+    background-color: rgb(213, 240, 228);
+    border: solid 2px black;
+}

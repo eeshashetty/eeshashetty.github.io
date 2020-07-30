@@ -1,8 +1,6 @@
 h1 {
     font-size: 60px;
-    -webkit-text-stroke-width: 2px; 
-    -webkit-text-stroke-color: black; 
-    color: white;
+    color: black;
 }
 
 p {
@@ -30,10 +28,21 @@ button {
     padding: 15px;
     border-radius: 20px;
     width: 250px;
+    margin: 20px;
 }
 
 button:hover{
     background-color: rgb(184, 184, 184);
+}
+
+.proj:hover span {
+    display: none;
+}
+
+.proj:hover:before{
+    content: "Tic Tac Toe!";
+    color: black;
+    font-size: 20px;
 }
 
 .links {

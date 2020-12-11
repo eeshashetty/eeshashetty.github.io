@@ -1,61 +1,32 @@
-h1 {
-    font-size: 60px;
-    color: black;
+body {
+    font-family: 'Lato';
+    background-image: url('sparkle.gif');
+    font-size: 20px;
+    color: white;
+}
+.main, .body, .lang, .links {
+    padding: 30px;
+    border-bottom: solid 2px white;
 }
 
-p {
-    font-size: 20px;
+img {
+    margin-right: 10px;
 }
 .card{
-    margin: 100px;
-    font-family: 'Lato';
-    text-align: center;
-    background-color: rgb(213, 240, 228);
-    padding-top: 30px;
-    color:black;
-    border: solid 8px;
-    border-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    width: fit-content;
+    color:white;
+    border: solid 2px white;
 }
 
 a {
     text-decoration: none;
-    color: black;
-    font-size: 20px;
+    color: white;
+    font-weight: bold;
 }
 
-
-button {
-    padding: 15px;
-    border-radius: 20px;
-    width: 250px;
-    margin: 20px;   
-    color: black;
-    font-size: 20px;
-}
-
-button:hover{
-    background-color: rgb(184, 184, 184);
-}
-
-.proj:hover span {
-    display: none;
-}
-
-.proj:hover:before{
-    content: "Tic Tac Toe!";
-    color: black;
-    font-size: 20px;
-}
-
-.links {
-    margin: 40px;
-}
-
-.icon {
-    width: 60px;
-    margin: 20px;
-}
-
-.icon:hover {
-    opacity: 70%;
+a:hover {
+    color: yellow;
 }

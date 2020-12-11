@@ -1,21 +1,51 @@
 body {
     font-family: 'Lato';
     background-image: url('sparkle.gif');
-    font-size: 20px;
+    font-size: 18px;
     color: white;
 }
-.main, .body, .lang, .links {
+.main, .body, .lang {
     padding: 30px;
     border-bottom: solid 2px white;
+}
+.links {
+    padding: 30px;
 }
 
 img {
     margin-right: 10px;
 }
+.c2 {
+    padding: 30px;
+    overflow: auto;
+    max-width: 650px;
+    border-left: solid 2px white;
+}
+.proj {
+    border: 3px solid white;
+    padding: 30px;
+    padding-top:15px;
+    margin: 20px;
+}
+.tag {
+    display: inline-block;
+    padding: 10px;
+    margin-top: -5px;
+    margin-right: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    width: fit-content;
+    background-color: cornflowerblue;
+    font-weight: bold;
+    
+}
 .card{
+    display: grid;
+    grid-template-columns: auto auto;
     margin-left: auto;
     margin-right: auto;
     margin-top: 40px;
+    height: 850px;
     width: fit-content;
     color:white;
     border: solid 2px white;

@@ -1,4 +1,4 @@
-# Hi, I'm Eesha ! ([@eeshashetty](https://github.com/eeshashetty)
+# Hi, I'm Eesha ! ([@eeshashetty](https://github.com/eeshashetty))
 
 🧚🏽‍♀️ **she/her**<br>
 🧚🏽‍♀️ **Third year Engineering Student**<br>

@@ -25,6 +25,6 @@ I also like challenging myself with new projects, and learning new technologies!
 
 ---
 <h3>Reach Me At</h3>
-<p float="left"><img height="25" align="left" src="https://www.flaticon.com/svg/static/icons/svg/3617/3617143.svg"> <a href="mailto:eeshashetty24@gmail.com">eeshashetty24@gmail.com</a></p>
+<p float="left"><img height="25" align="left" src="https://image.flaticon.com/icons/png/512/3447/3447695.png"> <a href="mailto:eeshashetty24@gmail.com">eeshashetty24@gmail.com</a></p>
 <p float="left"><img height="25" align="left" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg"/> <a href="https://twitter.com/eeshashetty24">@eeshashetty24</a></p>
 <p float="left"><img height="25" align="left" src="https://www.flaticon.com/svg/static/icons/svg/124/124011.svg"/> <a href="https://linkedin.com/in/eeshashetty">Eesha Shetty</a></p>

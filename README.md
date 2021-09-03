@@ -1,8 +1,9 @@
-# Hi, I'm Eesha ! ([@eeshashetty](https://github.com/eeshashetty))
+# Hi, I'm Eesha !
 
 🧚🏽‍♀️ **she/her**<br>
-🧚🏽‍♀️ **Third year Engineering Student**<br>
-🧚🏽‍♀️ **Technical Director, [ACM-VIT](https://github.com/ACM-VIT)**
+🧚🏽‍♀️ **Fourth Year Engineering Student**<br>
+🧚🏽‍♀️ **Technical Director, [ACM-VIT](https://github.com/ACM-VIT)** [2020-21]<br>
+🧚🏽‍♀️ **[Resume](https://github.com/eeshashetty/eeshashetty/blob/main/Eesha's%20Resume%20(1).pdf)**
 
 ---
 

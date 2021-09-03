@@ -25,6 +25,6 @@ I also like challenging myself with new projects, and learning new technologies!
 
 ---
 <h3>Reach Me At</h3>
-[Email] <a href="mailto:eeshashetty24@gmail.com">eeshashetty24@gmail.com</a></p>
-[Twitter] <a href="https://twitter.com/eeshashetty24">@eeshashetty24</a></p>
-[LinkedIn] <a href="https://linkedin.com/in/eeshashetty">Eesha Shetty</a></p>
+[Email] <a href="mailto:eeshashetty24@gmail.com">eeshashetty24@gmail.com</a></br>
+[Twitter] <a href="https://twitter.com/eeshashetty24">@eeshashetty24</a></br>
+[LinkedIn] <a href="https://linkedin.com/in/eeshashetty">Eesha Shetty</a></br>

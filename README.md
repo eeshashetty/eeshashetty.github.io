@@ -1,9 +1,10 @@
 # Hi, I'm Eesha !
+<a href="mailto:eeshashetty24@gmail.com">eeshashetty24@gmail.com</a> | <a href="https://twitter.com/eeshetty">Twitter</a> | <a href="https://linkedin.com/in/eeshashetty">LinkedIn</a>
 
 🧚🏽‍♀️ **she/her**<br>
-🧚🏽‍♀️ **Fourth Year Engineering Student**<br>
-🧚🏽‍♀️ **Technical Director, [ACM-VIT](https://github.com/ACM-VIT)** [2020-21]<br>
-🧚🏽‍♀️ **[Resume](https://github.com/eeshashetty/eeshashetty/blob/main/Eesha's%20Resume%20(1).pdf)**
+🧚🏽‍♀️ **First Year AI Grad @ Carnegie Mellon University**<br>
+🧚🏽‍♀️ **Technical Director 2020-21, [ACM-VIT](https://github.com/ACM-VIT)** [2020-21]<br>
+🧚🏽‍♀️ **[Resume](https://github.com/eeshashetty/eeshashetty/raw/main/resume.pdf)**
 
 ---
 
@@ -18,13 +19,3 @@ I also like challenging myself with new projects, and learning new technologies!
 ⚡ C++
 ⚡ Java
 ⚡ Dart
-
----
-
-![Eesha's github stats](https://github-readme-stats.vercel.app/api?username=eeshashetty&show_icons=true&theme=dark)
-
----
-<h3>Reach Me At</h3>
-[Email] <a href="mailto:eeshashetty24@gmail.com">eeshashetty24@gmail.com</a></br>
-[Twitter] <a href="https://twitter.com/eeshashetty24">@eeshashetty24</a></br>
-[LinkedIn] <a href="https://linkedin.com/in/eeshashetty">Eesha Shetty</a></br>
